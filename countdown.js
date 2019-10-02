@@ -7,7 +7,7 @@ and so on.
 */
 
 //variables
-/*var number, i, j;
+var number, i, j;
 
 number = parseInt(window.prompt("Enter a number"));
 
@@ -17,5 +17,3 @@ for(i=0;i<=number;i++){
     }
     break;
 }
-*/
-window.confirm("Hello");
